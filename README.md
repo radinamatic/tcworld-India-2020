@@ -7,4 +7,5 @@ To fully evaluate PDF files for accessibility you must have access to Adobe Acro
 ## PDF Accessibility Checker (PAC 3)
 
 http://www.access-for-all.ch/en/pdf-lab/pdf-accessibility-checker-pac.html
+
 Evaluates PDF files against checkpoints and failure conditions of the Matterhorn Protocol (PDF/UA Conformance Testing Model).
