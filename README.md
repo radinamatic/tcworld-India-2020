@@ -2,7 +2,7 @@
 
 ## PDF accessibility with Acrobat Pro
 
-To fully evaluate PDF files for accessibility you must have access to Adobe Acrobat Pro (download the latest 30 days evaluation version.
+To fully evaluate PDF files for accessibility you must have access to Adobe Acrobat Pro ([download the latest 30 days evaluation version](https://creative.adobe.com/products/download/acrobat).
 
 ## PDF Accessibility Checker (PAC 3)
 
